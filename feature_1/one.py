@@ -1,12 +1,9 @@
-var_1 = "Hello World 22"
+var_1 = "Hello World"
 
 
 
 
 
-a = 10
-b = 20
-c = a + b
-print(c)
+
 
 

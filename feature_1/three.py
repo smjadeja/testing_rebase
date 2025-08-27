@@ -1,9 +1,9 @@
-var_3 = "Hello World 22"
+var_3 = "Hello World"
 
 
 
 
 
-a = 10
+
 
 
